@@ -1,5 +1,5 @@
 ---
-title: Manufacturers
+title: Subjects
 layout: cloud
 permalink: /subjects.html
 # Default subject page is configured in "_data/theme.yml"
@@ -8,7 +8,7 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Browse Manufacturers
+## Browse Subjects
 
 Use this word cloud visualization to browse through different magnet manufacturer locations.
 Word size is determined by frequency and all words link to a corresponding collection search.
