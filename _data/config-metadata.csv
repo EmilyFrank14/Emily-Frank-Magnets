@@ -1,6 +1,11 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
+Image,Image,
+Artist,Artist,true
+Objects in Image,Notable Objects in Image,
+Words,Words on the magnet,
+Manufacture location,Location of manufacture,true
 date,Date Created,
 description,Description,
 subject,Subjects,true
