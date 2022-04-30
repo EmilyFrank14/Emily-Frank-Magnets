@@ -20,21 +20,21 @@ source-code: https://github.com/EmilyFrank14/collectionbuilder-Emily-Frank-Magne
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Travel Magnets 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: My personal collection of souvenir magnets
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
-# creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+description: On this site you will find a series of magnets that I have collected over the past 15 years of my travels.
+Within the collection, you will find information about their represented location, artist, imagery, message, and location of manufacture.
+author: Emily Frank
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata 
+metadata: magnetfinal 
 
 ##########
 # Site/Organization Branding 
