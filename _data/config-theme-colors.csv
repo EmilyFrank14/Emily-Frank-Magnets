@@ -1,6 +1,6 @@
 color_class,color
-primary,
-secondary,
+primary,#FBCEB1
+secondary,#CC5500
 success,
 info,
 warning,
