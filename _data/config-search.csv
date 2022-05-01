@@ -5,7 +5,7 @@ creator,true,false
 description,true,true
 subject,true,true
 location,true,false
-artist,true,true
+Artist,true,true
 Objects in Image,true,true
 Words,true,true
 Manufacture location,true,true
